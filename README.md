@@ -60,11 +60,18 @@ Here are some ideas to get you started:
 <br />
 <br />
 ---
-### Most Used Language:
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mencraft" />
-<br />
-<br />
+  </details>
 ---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+<img  align="left" alt="codeSTACKr's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=Mencraft"/>
+</details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
