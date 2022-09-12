@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on  [Mesopotamia.ai](http://mesopotamia.ai/)
-- 🌱 I’m currently learning web3
+- 🌱 I’m currently learning web3 and Golang
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ekemini-mendie-62210a12b/)
 
 
