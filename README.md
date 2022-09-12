@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on  [Betaswipe](https://betaswipe.com/)
+- 🔭 I’m currently working on  [Mesopotamia.ai](http://mesopotamia.ai/)
 - 🌱 I’m currently learning web3
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ekemini-mendie-62210a12b/)
 
