@@ -79,9 +79,18 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Profile Summary Card</summary>
 
-  <img align="left" alt="Mendie's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mencraft&theme=vue" />
+  <img align="left" alt="Github Profile Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mencraft&theme=vue" />
 
 </details>
+
+<details>
+  <summary>:zap: Streak Stats</summary>
+
+  <img align="left" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mencraft" />
+
+</details>
+
+
 
 
 [website]: https://mendieekemini.vercel.app/
