@@ -7,6 +7,17 @@
 
 [![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 [![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+[![](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekemini-mendie-62210a12b/)
+[![](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/ekemini-mendie)
+[![]()]()
+
+
+
+
 <!--
 **Mencraft/Mencraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -65,7 +76,14 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+  <summary>:zap: Github Profile Summary Card</summary>
+
+  <img align="left" alt="Mendie's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mencraft&theme=vue" />
+
+</details>
+
+
 [website]: https://mendieekemini.vercel.app/
-[twitter]: https://twitter.com/ekemboy96
 [instagram]: https://www.instagram.com/ekecraft/
 [linkedin]: https://www.linkedin.com/in/ekemini-mendie-62210a12b
