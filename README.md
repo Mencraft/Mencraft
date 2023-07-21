@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/website?label=mendieekemini.vercel.app&style=for-the-badge&url=https%3A%2F%2Fmendieekemini.vercel.app)](https://mendieekemini.vercel.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ekemboy96?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMencraft&screen_name=ekemboy96)
+
 
 
 [![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on  [Libraryofbabel.ai](https://libraryofbabel.ai/)
-- 🌱 I’m currently learning web3 and Golang
+- 🌱 I’m currently learning LangChain
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ekemini-mendie-62210a12b/)
 
 
