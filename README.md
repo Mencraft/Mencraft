@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on  [Longswipe](https://Longswipe.com/)
-- 🌱 I’m currently learning LangChain
+- 🔭 I’m currently working on  [VoucherFsat](https://voucherfast.com/)
+- 🌱 I’m currently learning about Agents
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ekemini-mendie-62210a12b/)
 
 
